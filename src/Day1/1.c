@@ -10,8 +10,8 @@ int main() {
     //  printf("%c", star);
 
     int age;
-    printf("hello world");
+    printf("hello!! What is your Name?");
     scanf("%d", &age);
-    printf("%d", age);
+    printf("Hii %d", age);
    return 0;
 }
