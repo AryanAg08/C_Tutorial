@@ -5,7 +5,7 @@ int main () {
     int numB;
     printf("Please enter first number \n");
     scanf("%d", &numA);
-    printf("Please enter Number B \n");
+    printf("Please enter second Number \n");
     scanf("%d", &numB);
 
     int answer = numA + numB;
