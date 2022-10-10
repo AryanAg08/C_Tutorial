@@ -8,7 +8,11 @@ int main() {
      
      int A = numA % 10;
      int B = numA - A;
-     int C = 
+     int C = B / 10;
+     int D = C % 10;
+     int E = C / 10;
+
+     printf("%d%d%d", A,D,E);
      
     
     return 0;
