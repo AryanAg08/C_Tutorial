@@ -12,10 +12,9 @@ int main() {
      int D = C % 10;
      int E = C / 10;
 
+     printf("The reverse of the Number %i is ", numA);
      printf("%d%d%d", A,D,E);
-     
-    
+        
     return 0;
 }
 
-// incomplete still;
