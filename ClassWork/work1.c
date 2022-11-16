@@ -31,4 +31,8 @@ void main () {
 /* 
  If the string is too long that can't fit into a specified array. Also it will buffer too long And will give an error in the end.
  The alternate to the problem is scanf(%[^\n]) And getChar();
+ buff = Array
+ Max = limit
+ stdin
+ fgets(buff, Max, stdin);
 */
