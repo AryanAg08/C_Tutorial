@@ -2,26 +2,26 @@
 
 int main()
 {
-   char s[10], r[10];
+   char arr1[10], arr2[10];
    int begin, end, count = 0;
 
    printf("Input a string\n");
-   gets(s);
+   gets(arr1);
 
-   while (s[count] != '\0')
+   while (arr1[count] != '\0')
       count++;
 
    end = count - 1;
 
    for (begin = 0; begin < count; begin++) {
-      r[begin] = s[end];
+      arr2[begin] = arr1[end];
       end--;
    }
 
-   r[begin] = '\0';
+   arr2[begin] = '\0';
 
   printf("Here is the revrse of the string: ");
-   printf("%s\n", r);
+   printf("%s\n", arr2);
 
    return 0;
 }

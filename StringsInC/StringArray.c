@@ -1,9 +1,3 @@
-/*
- * StringArray.c
- *
- *  Created on: Apr 16, 2013
- *      Author: Aj Norton
- */
 
 #include <stdio.h>
 
