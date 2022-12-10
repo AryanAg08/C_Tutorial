@@ -20,4 +20,7 @@ void main(){
     printf("\n Number of Students Entered: %s",data.dep_name);
 
 
+
+
+
 }
