@@ -1,0 +1,13 @@
+This section covers the wonderful world of pointers.
+Pointers are very powerful and can be used in a variety of ways and are essential knowledge for any C programmar.
+This section covers the wonderful world of pointers.
+Pointers are very powerful and can be used in a variety of ways and are essential knowledge for any C programmar.
+Pointers are very powerful and can be used in a variety of ways and are essential knowledge for any C programmar.
+Pointers are very powerful and can be used in a variety of ways and are essential knowledge for any C programmar.
+Pointers are very powerful and can be used in a variety of ways and are essential knowledge for any C programmar.
+Pointers are very powerful and can be used in a variety of ways and are essential knowledge for any C programmar.
+Pointers are very powerful and can be used in a variety of ways and are essential knowledge for any C programmar.
+Pointers are very powerful and can be used in a variety of ways and are essential knowledge for any C programmar.test line 1
+test line 2
+test line 3
+test line 4
